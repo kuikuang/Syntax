@@ -1,0 +1,7 @@
+int a=5;
+int b=4;
+double c=3;
+if(a<b)
+ a=3 
+else
+ c=(a+b)*c;

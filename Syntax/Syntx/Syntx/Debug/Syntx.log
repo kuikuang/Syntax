@@ -1,0 +1,10 @@
+﻿  源.cpp
+c:\users\q\desktop\syntax\syntx\syntx\源.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\q\desktop\syntax\syntx\syntx\源.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\q\desktop\syntax\syntx\syntx\源.cpp(138): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\q\desktop\syntax\syntx\syntx\源.cpp(171): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\q\desktop\syntax\syntx\syntx\源.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\q\desktop\syntax\syntx\syntx\源.cpp(188): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\q\desktop\syntax\syntx\syntx\源.cpp(191): warning C4018: “<”: 有符号/无符号不匹配
+  Syntx.vcxproj -> C:\Users\Q\Desktop\Syntax\Syntx\Debug\Syntx.exe
+  Syntx.vcxproj -> C:\Users\Q\Desktop\Syntax\Syntx\Debug\Syntx.pdb (Full PDB)
